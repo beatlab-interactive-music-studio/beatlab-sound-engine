@@ -2,6 +2,8 @@
 
 Shared repository of the BeatLab team (ACTAM project). `main` is the clean base of the project: everyone starts from it and works on their own branch.
 
+The BeatLab studio app itself is a separate project in a personal repository: https://github.com/NavidRahmani94/beatlab-interactive-music-studio . This repository is only for the shared team work.
+
 ## Branches
 
 | Branch | Content |
