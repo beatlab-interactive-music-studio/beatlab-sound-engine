@@ -100,4 +100,7 @@ npm run typecheck
 - Engine 2 sounds close to the classic engine but not the same. FM sounds in particular keep a fixed modulation depth, where the classic engine lets it fade over the note. If a sound feels off, the patch values or the trim in `workletTrim.ts` are the place to adjust.
 - The comparison above measures CPU cost and loudness, not tone. Tone has not been compared formally.
 - A very dense setup (several instruments, 5 or 6 note chords on 1/16 notes, thick unison pads) is still heavy on slow computers, with either engine.
-- There is no license file yet.
+
+## License
+
+MIT, see [LICENSE](LICENSE).

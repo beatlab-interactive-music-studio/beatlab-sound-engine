@@ -2,6 +2,7 @@
   "name": "beatlab-sound-engine",
   "version": "0.1.0",
   "description": "The two synth engines of BeatLab: a classic Tone.js engine and an AudioWorklet engine that plays the same patches.",
+  "license": "MIT",
   "private": true,
   "type": "module",
   "scripts": {
